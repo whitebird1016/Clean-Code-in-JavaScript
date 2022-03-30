@@ -1,6 +1,6 @@
 # Clean-Code-in-JavaScript with Sikamaru
 
-![sikamaru](https://user-images.githubusercontent.com/92864027/159448369-d46942c3-bff3-40b5-b8c5-f512ff08989c.jpg)
+![sikamaru](https://github.com/whitebird1016/Clean-Code-in-JavaScript/blob/main/thumb-350-948514.jpg)
 
 
 <h2> 7 JavaScript clean coding tips every developer should know</h2>
