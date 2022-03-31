@@ -1,4 +1,4 @@
-# Clean-Code-in-JavaScript with Shikamaru
+#Learning Clean-Code-in-JavaScript with Shikamaru
 
 ![shikamaru](https://github.com/whitebird1016/Clean-Code-in-JavaScript/blob/main/CUEVhE5.webp)
 
