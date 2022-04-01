@@ -99,7 +99,8 @@ console.log (y);
 
 <h3>6. Avoid Callbacks
  </h3>
-<ul><li>Callbacks used to be the most popular way to express and handle asynchronous functions in JavaScript programs. However, if you are still using it, I hope you already know the pain of handling multiple nested callbacks.
+<ul><li>Callbacks used to be the most popular way to express and handle asynchronous functions in JavaScript programs.</li>
+  <li>However, if you are still using it, I hope you already know the pain of handling multiple nested callbacks.</li>
 </li>
 </ul>
 
