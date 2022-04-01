@@ -49,7 +49,7 @@ function CustomerDetail (User){
 
 <h3>3. Make Use of Arrow Functions
  </h3>
-<ul><liArrow functions provide a concise way of writing JavaScript functions while resolving the problem of accessing this property inside callbacks.
+<ul><li>Arrow functions provide a concise way of writing JavaScript functions while resolving the problem of accessing this property inside callbacks.</li><li>
 If you are using arrow functions, curly braces, parenthesis, function, and return keywords become optional. Most importantly, your code becomes more understandable and clearer..</li>
 </ul>
 
